@@ -1,20 +1,20 @@
 <resources>
-    <string name="app_name">Mattermost</string>
+    <string name="app_name">KM Talk</string>
     <string name="app_user_agent">com.mattermost.android</string>
-    <string name="welcome_text">Enter Mattermost Server URL</string>
+    <string name="welcome_text">Enter KnoxMakers Server URL</string>
     <string name="error_server_url_empty">Server URL cannot be empty</string>
     <string name="error_server_url">The server does not exist</string>
-    <string name="error_mattermost_server">We could not connect to the Mattermost server or the server is running an incompatible version.</string>
+    <string name="error_mattermost_server">We could not connect to the KnoxMakers server or the server is running an incompatible version.</string>
     <string name="login_sub_title">Email address for %s</string>
     <string name="uploads_disabled">File uploads are disabled.</string>
     <string name="choose_upload">Choose file for upload</string>
     <string name="gcm_sender_id">400589284558</string>
     <string name="loading">Loading...</string>
     <string name="team_url"></string>
-    <string name="error_retry">You may be offline or the Mattermost server you are trying to connect to is experiencing problems.</string>
+    <string name="error_retry">You may be offline or the KnoxMakers server you are trying to connect to is experiencing problems.</string>
     <string name="error_refresh">Refresh</string>
     <string name="error_logout">Logout</string>
-    <string name="team_url_hint">e.g. mattermost.server.com</string>
+    <string name="team_url_hint">e.g. talk.knoxmakers.org</string>
     <string name="select_server_button">Proceed</string>
     <string-array name="server_prefixs">
         <item>https://</item>

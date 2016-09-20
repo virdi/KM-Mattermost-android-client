@@ -49,6 +49,7 @@ public class MainActivity extends WebViewActivity {
         appUri = Uri.parse(service.getBaseUrl());
 
         webView = (WebView) findViewById(R.id.web_view);
+        webView.getSettings().setDomStorageEnabled(true); //mlv
 
         initProgressBar(R.id.webViewProgress);
         initWebView(webView);

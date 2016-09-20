@@ -16,7 +16,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceSmall"
-        android:text="  Copyright (c) 2016 Mattermost Inc.. All rights reserved."
+        android:text="  Copyright (c) 2016 KnoxMakers. All rights reserved."
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:textColor="#ffffff"
